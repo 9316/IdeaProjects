@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="gakvetili12 calculatori:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gakvetili12_calculatori_jar</output-path>
+    <root id="archive" name="gakvetili12 calculatori.jar">
+      <element id="module-output" name="gakvetili12 calculatori" />
+    </root>
+  </artifact>
+</component>
